@@ -1,2 +1,2 @@
 # Database-Basics
-Repository for the course Dabatase Basics - Autumn 2018.
+Repository for the course Dabatase Basics (ICA0005) in Autumn 2018.
